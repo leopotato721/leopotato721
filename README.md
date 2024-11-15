@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!--
-**leopotato721/leopotato721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 I am totally beginner, and hope I can make rapid progress!!
 
@@ -15,4 +14,4 @@ I am totally beginner, and hope I can make rapid progress!!
 
 ![ME](https://github.com/user-attachments/assets/7feb2f86-2d58-4651-ad98-aea5b6891cb1)
 
--->
+
